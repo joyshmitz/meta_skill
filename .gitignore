@@ -84,7 +84,6 @@ local_skills/
 
 # Linter output
 clippy_output.json
-
 # Ephemeral/temporary files (agent workflow artifacts)
 RESEARCH_FINDINGS.md
 TOON_INTEGRATION_BRIEF.md
@@ -93,3 +92,6 @@ rustc-ice-*.txt
 *.snap.new
 sweep_*.png
 test_screenshot.png
+
+# Learning experiments
+.ntm/
